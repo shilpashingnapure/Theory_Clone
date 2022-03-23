@@ -65,10 +65,7 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 <div style='page-break-after: always'></div>
 
 ### <u>Project Overview</u>
-
-https://user-images.githubusercontent.com/69167064/159703975-549fe830-551e-45ba-892b-7e275d22ebff.mp4
-
-
+https://user-images.githubusercontent.com/69167064/159704945-bf973452-6b14-444c-b4fb-513ed6a4a639.mp4
 
 <div style='page-break-after: always'></div>
 
