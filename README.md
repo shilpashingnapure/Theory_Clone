@@ -6,14 +6,10 @@ In this project we have tried to make a clone of <a href="https://www.theory.com
 
 ### <u>Deployed Link</u>
 
-Deployed with AWS 
-``` 
-http://ec2-13-127-17-86.ap-south-1.compute.amazonaws.com:5000/
- ```
 
 Deployed with Herokuapp 
 ```
- https://theory-clone-backend.herokuapp.com/
+https://backend-theory.herokuapp.com/
  ```
 
 ### <u>Run Locally</u>
@@ -70,7 +66,9 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 
 ### <u>Project Overview</u>
 
-https://user-images.githubusercontent.com/69167064/150655248-fa21911d-0c24-420e-89a5-c78b6fbe0271.mp4
+https://user-images.githubusercontent.com/69167064/159703975-549fe830-551e-45ba-892b-7e275d22ebff.mp4
+
+
 
 <div style='page-break-after: always'></div>
 
